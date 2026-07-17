@@ -59,15 +59,6 @@ and think about the product, not just the code (who it's for, what to cut, and w
 
 ---
 
-### 📊 GitHub stats
-
-<!-- These render automatically once committed. Replace username if needed. -->
-![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyakeshwani&show_icons=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyakeshwani&layout=compact)
-
----
-
 ### 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiya-keshwani-051525218)
